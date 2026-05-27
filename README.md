@@ -18,18 +18,6 @@ Express.js
 HTML
 CSS
 JavaScript
-Project Structure
-NOTES-API/
-│
-├── backend/
-│   ├── routes/
-│   │   └── notesRoutes.js
-│   │
-│   ├── server.js
-│   └── package.json
-│
-├── frontend/
-│   └── index.html
 
 
 What I Learned

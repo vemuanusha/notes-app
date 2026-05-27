@@ -1,4 +1,4 @@
-# notes-app
+# Notes-app
 
 Notes API
 
